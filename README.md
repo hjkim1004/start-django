@@ -24,7 +24,7 @@
 	- 정제한 frame을 Model과 맵핑하여 DB에 저장
 5. API/crawler
 ```
-	[Crawler](https://github.com/leeyongjoo/crawler-selenium)
+link : [leeyoungju's crawler](https://github.com/leeyongjoo/crawler-selenium)
 
 [**API/data/saving.py**] => 문제의 파일 <br>
 model에 저장하는것까지 되었으나 에러뜸 <br>
