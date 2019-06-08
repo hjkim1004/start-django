@@ -18,11 +18,15 @@
 
 2. API/data/crawled_data/frames.py
 	- crawled_data 폴더 안에 있는 부품 정보들을 frames.py로 받아옴. pandas의 DataFrame 객체로 받을 수 있음.	
+	
 3. API/data/preprocessing.py 
 	- frames의 DataFrame을 받아와서 정제함; NA처리
+	
 4. API/data/saving.py
 	- 정제한 frame을 Model과 맵핑하여 DB에 저장
+
 5. API/crawler
+	- 용주오빠가 구현한 크롤러를 받아옴. Model은 정의되어 있으나 수집한 데이터 Mapping은 안된 상태임.
 ```
 link : [leeyoungju's crawler](https://github.com/leeyongjoo/crawler-selenium)
 
