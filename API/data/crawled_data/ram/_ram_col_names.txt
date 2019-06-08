@@ -1,0 +1,1 @@
+name,manufacturer,ddr,use,count,heatsink,dimm,capacity,clock,etc,price

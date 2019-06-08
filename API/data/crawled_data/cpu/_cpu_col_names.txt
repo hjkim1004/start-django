@@ -1,0 +1,1 @@
+name,manufacturer,socket,nm,core,thread,clock,l2,l3,bit,tdp,gpu_name,gpu_core,etc,price

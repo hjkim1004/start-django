@@ -1,0 +1,1 @@
+name,manufacturer,prod_name,nm,clock,b_clock,sp,PCIe,gddr,memory_c,memory_v,memory_b,etc,price

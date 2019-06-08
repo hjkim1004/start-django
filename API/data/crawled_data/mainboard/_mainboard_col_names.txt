@@ -1,0 +1,1 @@
+name,manufacturer,socket,chipset,size,phase,ddr,capacity,vga_connect,pcie_slot,sata3,m_2_slot,output,ps_2,usb_2_0,usb_3_1_1,usb_3_1_2,etc,price

@@ -1,0 +1,1 @@
+name,manufacturer,standard,w,fan_size,fan_num,pfc,rail,a,pin4_ide,sata,pin6plus2_pci_e,as_power,etc,price
